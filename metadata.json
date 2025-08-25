@@ -1,0 +1,7 @@
+{
+  "name": "حمزة كود",
+  "description": "An advanced AI-powered tool to generate stunning images, videos, professional websites, complete books with covers, and get answers to any question. Powered by Hamza Code Model.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
